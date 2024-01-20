@@ -1,0 +1,2 @@
+Developing a real-time deepfake detection system for live video calls to identify and mitigate the risks associated with malicious use of deepfake technology during live video conversations, ensuring the authenticity and trustworthiness of virtual interactions. The challenge involves creating an efficient system capable of detecting and alerting users to the presence of deepfakes in real-time video streams.
+![image](https://github.com/MORGUE28/FYP_Deepfake/assets/73026328/95b7f1b2-ed8c-4f13-8d4c-8b9d30020461)
